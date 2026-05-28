@@ -3,5 +3,5 @@
 <!--- - 🔭 I’m currently working on ... --->
 - 🌱 Estudando JavaScript
 - 💬 Contata-me no email: eduardocsousa.dev@gmail.com
-- 😄 Pronomes: ele/dele
+
 
